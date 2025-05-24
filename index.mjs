@@ -1,4 +1,4 @@
-import { registrar } from './operaciones.mjs';
+import { registrar, leer } from './operaciones.mjs';
 
 const argumentos = process.argv.slice(2);
 const operacion = argumentos[0];
@@ -9,6 +9,6 @@ if(operacion === 'registrar') {
 }
 
 
-//if(operacion === 'leer') {
-//    leer()
-//}
+if(operacion === 'leer') {
+    leer()
+}

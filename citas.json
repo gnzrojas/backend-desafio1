@@ -5,5 +5,12 @@
     "animal": "perro",
     "color": "blanco",
     "enfermedad": "vomitos"
+  },
+  {
+    "nombre": "Lucas",
+    "edad": "5 años",
+    "animal": "gato",
+    "color": "negro",
+    "enfermedad": "resfriado"
   }
 ]
